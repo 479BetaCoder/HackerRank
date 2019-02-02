@@ -1,2 +1,2 @@
-#My HackerRank Solutions
+# My HackerRank Solutions
 Solve it like RK
